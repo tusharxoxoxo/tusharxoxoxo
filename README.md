@@ -1,6 +1,6 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
+!--
 **tusharxoxoxo/tusharxoxoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ... linkedin or tusharxoxoxo@gmail.com
 - ⚡ Fun fact: ... we can compare apples with oranges
--->
+--

@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... linkedin or tusharxoxoxo@gmail.com
 - ⚡ Fun fact: ... we can compare apples with oranges
 --
+![image](https://user-images.githubusercontent.com/79051850/176373513-c434164a-1dd5-4d80-970f-ab01f7ff4b2d.png)

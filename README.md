@@ -1,5 +1,5 @@
 Hi there 👋
-https://user-images.githubusercontent.com/79051850/176373730-0838a6a2-19ad-44fc-bf13-dbb1c19cd627.mp4
+
 !--
 **tusharxoxoxo/tusharxoxoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

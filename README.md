@@ -1,23 +1,14 @@
+# Konichiwa 👋
 
-![](https://github.com/tusharxoxoxo/gif/blob/main/golden-wind-dance.gif)
-!--
-
-
-Hi there 👋
-**tusharxoxoxo/tusharxoxoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...  
-- 🌱 I’m currently learning ... rust
-<!-- - 👯 I’m looking to collaborate on ... nahh nahhh not now -->
-- 🤔 I’m looking for help with ... nvim
-- 💬 Ask me about ...
-- 📫 How to reach me: ... linkedin or tusharxoxoxo@gmail.com
-- ⚡ Fun fact: ... we can compare apples with oranges
---
+<img src="fox.png">
+<h3 align="center">Connect with me</h3>
+<p align="center">
 
 
+<a href="https://github.com/tusharxoxoxo/tusharxoxoxo/raw/main/resume.pdf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/files.svg" alt="aarushgoyal_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dahiya-tushar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tushar-dahiya" height="30" width="40" /></a>
+
+</p>
 
 
-
+<p align="center"> Check out <a href="https://github.com/tusharxoxoxo/tusharxoxoxo/blob/main/resume.md">my resume 📎</a>  </p> 

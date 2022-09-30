@@ -4,18 +4,11 @@ A not-so-average Rust enthusiast. Here's my [resume](https://github.com/tusharxo
 
 ![meme](rust-v-cpp.gif)
 
-<## Groups
-Member of:
-* [FTCLib](https://www.github.com/FTCLib) as the Lead Developer
-* [Alpharetta Robotics](https://github.com/AHS-Robotics-Club) as the Head Mentor
-* [RoboJackets](https://github.com/RoboJackets) as the IT Coordinator
-* [HyTech Racing](https://github.com/hytech-racing)>
-
 ## GitHub Stats
 
-[![Jackson's github stats](https://github-readme-stats.vercel.app/api?username=jiceberg&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Jackson's github stats](https://github-readme-stats.vercel.app/api?username=tusharxoxoxo&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiceberg&layout=compact&theme=onedark&hide=html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharxoxoxo&layout=compact&theme=onedark&hide=html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 <a href="https://github.com/FTCLib/FTCLib">

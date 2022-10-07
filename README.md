@@ -10,4 +10,4 @@ A not-so-average Rust enthusiast. Here's my [resume](https://github.com/tusharxo
 
 ![](https://komarev.com/ghpvc/?username=tusharxoxoxo&label=Views&color=116262)
 
-- [![@tusharxoxoxo's Holopin board](https://holopin.io/api/user/board?user=tusharxoxoxo)](https://holopin.io/@tusharxoxoxo)
+<!--- [![@tusharxoxoxo's Holopin board](https://holopin.io/api/user/board?user=tusharxoxoxo)](https://holopin.io/@tusharxoxoxo) --->

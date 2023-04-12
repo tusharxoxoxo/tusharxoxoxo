@@ -17,8 +17,8 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
 
 #### Socials:
 
-<a href="https://discord.com/users/442898394797572119">
-  <img align="left" alt="Wiredhikari's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://discord.com/users/320943393381548033">
+  <img align="left" alt="Tushar's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/wired_hikari">
   <img align="left" alt="Atharva | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />

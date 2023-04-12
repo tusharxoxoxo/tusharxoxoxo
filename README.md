@@ -20,14 +20,14 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
 <a href="https://discord.com/users/320943393381548033">
   <img align="left" alt="Tushar's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/wired_hikari">
+<a href="https://twitter.com/blouse_man">
   <img align="left" alt="Atharva | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/atharvaamritkar/">
-  <img align="left" alt="Atharva LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/dahiya-tushar/">
+  <img align="left" alt="Tushar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
- <a href="https://t.me/wiredhikari">
-  <img align="left" alt="Atharva telegram" width="22px"src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
+ <a href="https://t.me/Jojo_xoxoo">
+  <img align="left" alt="Tushar's telegram" width="22px"src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a> <br />
 
 <br />

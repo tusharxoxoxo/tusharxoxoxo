@@ -32,6 +32,8 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
 
 
 
+
+
 A not-so-average Rust enthusiast. Here's my [resume](https://github.com/tusharxoxoxo/resume/blob/master/resume.pdf).
 
 ![meme](rust-v-cpp.gif)

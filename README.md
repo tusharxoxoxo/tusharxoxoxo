@@ -30,8 +30,8 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
   <img align="left" alt="Atharva telegram" width="22px"src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a> <br />
 
-
-
+<br />
+<br />
 
 
 A not-so-average Rust enthusiast. Here's my [resume](https://github.com/tusharxoxoxo/resume/blob/master/resume.pdf).

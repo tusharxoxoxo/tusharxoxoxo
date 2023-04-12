@@ -4,6 +4,17 @@ I'm Tushar (aka tusharxoxoxo), a third year undergraduate student in NIE, Mysore
 #### Currently:
 I am a generalist as of now and I usually do remote jobs and kinda prefer them. You can contact me on tusharxoxoxo@gmail.com.
 
+
+### Projects:
+
+
+* High-fidelity messaging with [symmetrical-palm-tree](https://github.com/tusharxoxoxo/symmetrical-palm-tree)
+
+* Gin-powered Go API: high performance, simple [reimagined-octo-giggle](https://github.com/tusharxoxoxo/reimagined-octo-giggle)
+
+* Optimized Go Card Game precise, and with comprehensive functionality [go_card_game](https://github.com/tusharxoxoxo/go_card_game)
+
+
 A not-so-average Rust enthusiast. Here's my [resume](https://github.com/tusharxoxoxo/resume/blob/master/resume.pdf).
 
 ![meme](rust-v-cpp.gif)

@@ -15,6 +15,22 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
 * Optimized Go Card Game precise, and with comprehensive functionality 
 
 
+#### Socials:
+
+<a href="https://discord.com/users/442898394797572119">
+  <img align="left" alt="Wiredhikari's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/wired_hikari">
+  <img align="left" alt="Atharva | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/atharvaamritkar/">
+  <img align="left" alt="Atharva LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a> 
+ <a href="https://t.me/wiredhikari">
+  <img align="left" alt="Atharva telegram" width="22px"src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
+</a>
+
+
 A not-so-average Rust enthusiast. Here's my [resume](https://github.com/tusharxoxoxo/resume/blob/master/resume.pdf).
 
 ![meme](rust-v-cpp.gif)

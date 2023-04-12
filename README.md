@@ -12,7 +12,7 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
 
 * Gin-powered Go API: high performance, simple [reimagined-octo-giggle](https://github.com/tusharxoxoxo/reimagined-octo-giggle)
 
-* Optimized Go Card Game precise, and with comprehensive functionality [go_card_game](https://github.com/tusharxoxoxo/go_card_game)
+* Optimized Go Card Game precise, and with comprehensive functionality 
 
 
 A not-so-average Rust enthusiast. Here's my [resume](https://github.com/tusharxoxoxo/resume/blob/master/resume.pdf).
@@ -26,4 +26,3 @@ A not-so-average Rust enthusiast. Here's my [resume](https://github.com/tusharxo
 ![](https://komarev.com/ghpvc/?username=tusharxoxoxo&label=Views&color=116262)
 
 <!--- [![@tusharxoxoxo's Holopin board](https://holopin.io/api/user/board?user=tusharxoxoxo)](https://holopin.io/@tusharxoxoxo) --->
-email: tusharxoxoxo@gmail.com

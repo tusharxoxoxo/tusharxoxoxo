@@ -34,7 +34,7 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
 <br />
 
 
-A not-so-average Rust enthusiast. Here's my [resume](https://github.com/tusharxoxoxo/resume/blob/master/resume.pdf).
+A not-so-average Rust enthusiast. 
 
 ![meme](rust-v-cpp.gif)
 
@@ -45,3 +45,4 @@ A not-so-average Rust enthusiast. Here's my [resume](https://github.com/tusharxo
 ![](https://komarev.com/ghpvc/?username=tusharxoxoxo&label=Views&color=116262)
 
 <!--- [![@tusharxoxoxo's Holopin board](https://holopin.io/api/user/board?user=tusharxoxoxo)](https://holopin.io/@tusharxoxoxo) --->
+<!--- Here's my [resume](https://github.com/tusharxoxoxo/resume/blob/master/resume.pdf). --->

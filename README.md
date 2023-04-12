@@ -1,6 +1,7 @@
 # Tushar Dahiya
 ### Greetings!
 I'm Tushar (aka tusharxoxoxo), a third year undergraduate student in NIE, Mysore, India. based from New Delhi. I do open source for fun. I love linux and am currently exploring Blockchain and playing with Rust. I play chess and love to read economics and psychology. I don't write often but you can find me [here](https://brain-dead.medium.com/). Ok, I hate web development and javascript so much that i am writing it here.
+
 A not-so-average Rust enthusiast. Here's my [resume](https://github.com/tusharxoxoxo/resume/blob/master/resume.pdf).
 
 ![meme](rust-v-cpp.gif)

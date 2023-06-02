@@ -44,5 +44,7 @@ A not-so-average Rust enthusiast.
 
 ![](https://komarev.com/ghpvc/?username=tusharxoxoxo&label=Views&color=116262)
 
+
+[![tusharxoxoxo's GitHub | Stats](https://stats.quine.sh/tusharxoxoxo/github?theme=dark)](https://quine.sh)
 <!--- [![@tusharxoxoxo's Holopin board](https://holopin.io/api/user/board?user=tusharxoxoxo)](https://holopin.io/@tusharxoxoxo) --->
 <!--- Here's my [resume](https://github.com/tusharxoxoxo/resume/blob/master/resume.pdf). --->

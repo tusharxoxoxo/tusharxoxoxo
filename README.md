@@ -33,7 +33,8 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
 <br />
 <br />
 
-###Address
+### Address:
+
 Eth - 0x21d7684D9af066Fe8209ee03c319434E4C571aa8
 
 

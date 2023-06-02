@@ -46,5 +46,9 @@ A not-so-average Rust enthusiast.
 
 
 [![tusharxoxoxo's GitHub | Stats](https://stats.quine.sh/tusharxoxoxo/github?theme=dark)](https://quine.sh)
+
+[![tusharxoxoxo's GitHub | Topics](https://stats.quine.sh/tusharxoxoxo/topics-over-time?theme=dark)](https://quine.sh)
+
+[![tusharxoxoxo's GitHub | Languages Over Time](https://stats.quine.sh/tusharxoxoxo/languages-over-time?theme=dark)](https://quine.sh)
 <!--- [![@tusharxoxoxo's Holopin board](https://holopin.io/api/user/board?user=tusharxoxoxo)](https://holopin.io/@tusharxoxoxo) --->
 <!--- Here's my [resume](https://github.com/tusharxoxoxo/resume/blob/master/resume.pdf). --->

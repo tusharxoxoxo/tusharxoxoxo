@@ -31,7 +31,7 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
 </a> <br />
 
 <br />
-<br />
+
 
 ### Address:
 

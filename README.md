@@ -30,7 +30,7 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
   <img align="left" alt="Tushar's telegram" width="22px"src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a> <br />
 
-<br />
+
 
 
 ### Address:

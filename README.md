@@ -18,10 +18,10 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
 #### Socials:
 
 <a href="https://discord.com/users/320943393381548033">
-  <img align="left" alt="Tushar's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Tushar's Discord" width="22px" src="https://en.wikipedia.org/wiki/Discord#/media/File:Discord_logo.svg" />
 </a>
 <a href="https://twitter.com/blouse_man">
-  <img align="left" alt="Tushar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Tushar | Twitter" width="22px" src="https://en.wikipedia.org/wiki/Twitter#/media/File:Logo_of_Twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/dahiya-tushar/">
   <img align="left" alt="Tushar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />

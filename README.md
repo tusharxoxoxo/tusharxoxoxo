@@ -16,14 +16,7 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
 
 
 #### Socials:
-
-https://discord.com/users/320943393381548033
-https://twitter.com/blouse_man
-
-https://www.linkedin.com/in/dahiya-tushar
-
-https://t.me/Jojo_xoxoo
-I sometimes write [threads](https://www.threads.net/@jaat_introvert) and occasionally [tweet](https://twitter.com/blouse_man_) about stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/dahiya-tushar/) about **job-related** matters.
+I occasionally [tweet](https://twitter.com/blouse_man_) about stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/dahiya-tushar/) about **job-related** matters.
 
 
 

@@ -20,7 +20,7 @@ I occasionally [tweet](https://twitter.com/0tusharD) about stuff. Feel free to r
 
 
 
-
+<!--
 ### Address:
 
 Eth - 0x21d7684D9af066Fe8209ee03c319434E4C571aa8
@@ -28,6 +28,7 @@ Eth - 0x21d7684D9af066Fe8209ee03c319434E4C571aa8
 Sol - 56qqW36EaqVbFzvPajieSKrTGFu2s9JDWgAGV98zHEj7
 
 ![](https://komarev.com/ghpvc/?username=tusharxoxoxo&label=Views&color=116262)
+-->
 <!--
 A not-so-average Rust enthusiast. 
 

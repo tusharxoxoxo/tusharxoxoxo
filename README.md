@@ -54,4 +54,4 @@ A not-so-average Rust enthusiast.
 
 
 
-> *this page was last updated on 29 Jan 2024. please contact me if you notice it is outdated, or if you would like more recent information.*
+> *this page was last updated on 15 July 2024. please contact me if you notice it is outdated, or if you would like more recent information.*

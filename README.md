@@ -16,7 +16,7 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
 
 
 #### Socials:
-I occasionally [tweet](https://twitter.com/0tusharD) about stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/dahiya-tushar/) about **job-related** matters.
+I occasionally [tweet](https://x.com/0tusharD) about stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/dahiya-tushar/) about **job-related** matters.
 
 
 

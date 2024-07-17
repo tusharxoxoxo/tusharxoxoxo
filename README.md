@@ -2,7 +2,7 @@
 I'm Tushar (aka tusharxoxoxo), a final year undergraduate student in NIE, Mysore, India. based from New Delhi. I do open source for fun. I love linux and am currently exploring Blockchain and playing with Rust. I play chess and love to read economics and psychology. I don't write often but you can find me [here](https://brain-dead.medium.com/). Okay, I love/hate web-development and javascript so much that i am writing it here.
 
 #### Currently:
-I am a generalist as of now and I usually do remote jobs and kinda prefer them. You can contact me on tusharxoxoxo@gmail.com.
+I am a generalist as of now and I usually do remote jobs and kinda prefer them. You can contact me on tushardzig@gmail.com.
 
 
 ### Projects:
@@ -16,7 +16,7 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
 
 
 #### Socials:
-I occasionally [tweet](https://x.com/0tusharD) about stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/dahiya-tushar/) about **job-related** matters.
+I frequently [tweet](https://x.com/0tusharD) about stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/dahiya-tushar/) about **job-related** matters.
 
 
 
@@ -54,4 +54,4 @@ A not-so-average Rust enthusiast.
 
 
 
-> *this page was last updated on 15 July 2024. please contact me if you notice it is outdated, or if you would like more recent information.*
+> *this page was last updated on 17 July 2024. please contact me if you notice it is outdated, or if you would like more recent information.*

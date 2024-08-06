@@ -7,7 +7,15 @@ I am a generalist as of now and I usually do remote jobs and kinda prefer them. 
 
 
 ### Projects:
+* My own toy reddis in Rust [ubiquitous-reddis](https://github.com/tusharxoxoxo/ubiquitous-reddis)
 
+* cut youtube videos in your terminal with [youTube-video-cutter](https://github.com/tusharxoxoxo/youTube-video-cutter)
+
+* My own shell [broccoli-shell](https://github.com/tusharxoxoxo/broccoli-shell)
+
+* fun gambling game with [okto-plinkoo](https://github.com/tusharxoxoxo/okto-plinkoo)
+
+* image-detection with tfjs [cocossd-image-detection](https://github.com/tusharxoxoxo/cocossd-image-detection)
 
 * High-fidelity messaging with [symmetrical-palm-tree](https://github.com/tusharxoxoxo/symmetrical-palm-tree)
 

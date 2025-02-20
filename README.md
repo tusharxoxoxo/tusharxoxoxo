@@ -2,7 +2,7 @@
 I'm Tushar, I do open source for fun. I love linux and am currently exploring Blockchain and playing with Rust. I play chess and love to read economics and psychology. I don't write often but you can find me [here](https://brain-dead.medium.com/). Okay, I love/hate web-development and javascript so much that i am writing it here.
 
 #### Currently:
-I am currently working as a Research Fellow at IIIT Hyd, working on running ml models on low power devices.
+I am currently working at Zator org as Backend and Data Engineer.
 I am a generalist as of now and I usually do remote jobs and kinda prefer them. You can contact me on tushardzig@gmail.com.
 
 
@@ -63,4 +63,4 @@ A not-so-average Rust enthusiast.
 
 
 
-> *this page was last updated on 6 Aug 2024. please contact me if you notice it is outdated, or if you would like more recent information.*
+> *this page was last updated on 20 Feb 2025. please contact me if you notice it is outdated, or if you would like more recent information.*

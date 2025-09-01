@@ -3,7 +3,7 @@ I'm Tushar, I do open source. I love linux and am currently exploring Blockchain
 
 #### Currently:
 I am currently working at Qdata as a Software Developer.
-I am a generalist as of now and I usually do remote jobs and kinda prefer them. You can contact me on tushardzig@gmail.com.
+I am a generalist as of now. You can contact me on tushardzig@gmail.com.
 
 
 ### Projects:
@@ -63,4 +63,4 @@ A not-so-average Rust enthusiast.
 
 
 
-> *this page was last updated on 10 May 2025. please contact me if you notice it is outdated, or if you would like more recent information.*
+> *this page was last updated on 1 Sep 2025. please contact me if you notice it is outdated, or if you would like more recent information.*

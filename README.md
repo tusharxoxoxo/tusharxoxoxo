@@ -1,9 +1,8 @@
 ### Greetings!
-I'm Tushar, I do open source. I love linux and am currently exploring Blockchain and playing with Rust. I play chess. I don't write often but you can find me [here](https://brain-dead.medium.com/). 
+I'm Tushar, I do open source. I love linux and am currently exploring. I play chess. I don't write often but you can find me [here](https://tushard.bearblog.dev/blog/). 
 
 #### Currently:
-I am currently working at Qdata as a Software Developer.
-I am a generalist as of now. You can contact me on tushardzig@gmail.com.
+How to reach me: tushardzig(аt)g-yоu-knоw-com
 
 
 ### Projects:
@@ -63,4 +62,4 @@ A not-so-average Rust enthusiast.
 
 
 
-> *this page was last updated on 1 Sep 2025. please contact me if you notice it is outdated, or if you would like more recent information.*
+> *this page was last updated on 19 Jan 2026. please contact me if you notice it is outdated, or if you would like more recent information.*

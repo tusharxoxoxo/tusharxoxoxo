@@ -6,6 +6,7 @@ How to reach me: tushardzig(аt)g-yоu-knоw-com
 
 
 ### Projects:
+
 * My own toy reddis in Rust [ubiquitous-reddis](https://github.com/tusharxoxoxo/ubiquitous-reddis)
 
 * cut youtube videos in your terminal with [youTube-video-cutter](https://github.com/tusharxoxoxo/youTube-video-cutter)
@@ -17,11 +18,11 @@ How to reach me: tushardzig(аt)g-yоu-knоw-com
 * image-detection with tfjs [cocossd-image-detection](https://github.com/tusharxoxoxo/cocossd-image-detection)
 
 * High-fidelity messaging with [symmetrical-palm-tree](https://github.com/tusharxoxoxo/symmetrical-palm-tree)
-
+<!--
 * Gin-powered Go API: high performance, simple [reimagined-octo-giggle](https://github.com/tusharxoxoxo/reimagined-octo-giggle)
 
 * Optimized Go Card Game precise, and with comprehensive functionality 
-
+-->
 
 #### Socials:
 I frequently [tweet](https://x.com/0tusharD) about stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/dahiya-tushar/) about **job-related** matters.
